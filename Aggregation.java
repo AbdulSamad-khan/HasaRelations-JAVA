@@ -12,7 +12,7 @@ public class Test{
         Teacher teach = new Teacher(courses,"Abdul Samad","bs computer Science");
         teach.print();
         teach.anotherWay();
-
+        System.out.println("Checking the effect of fork");
     }
 }
 
